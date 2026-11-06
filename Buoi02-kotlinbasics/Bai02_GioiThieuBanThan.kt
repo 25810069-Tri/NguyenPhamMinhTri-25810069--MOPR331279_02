@@ -1,8 +1,8 @@
 // Ho ten: Nguyễn Phạm Minh Trí - MSSV: 25810069
 
 fun main() {
-    val hoTen = "Nguyen Truong Tho"
-    val namSinh = 2004
+    val hoTen = "Nguyen Pham Minh  Tri"
+    val namSinh = 2003
 
     val tuoi = 2026 - namSinh
 
